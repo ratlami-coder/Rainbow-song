@@ -1,3 +1,3 @@
 # Rainbow-song
 
-This is a readme file. version1 
+This is a readme file. version2
